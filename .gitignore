@@ -1,0 +1,7 @@
+.vscode
+data/
+runs/
+model_results.csv
+model.pt
+
+**/__pycache__
